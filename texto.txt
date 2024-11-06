@@ -1,0 +1,5 @@
+Hola mundo
+el veloz murciélago hindú comía feliz
+Práctica de Git
+Pasos para crear repo:
+-git init
